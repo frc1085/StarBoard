@@ -25,6 +25,10 @@ html, body {
   letter-spacing: 3.25px;
 }
 
+.title > h1:last-child {
+  color: red;
+}
+
 /* Hotbar */
 .hotbar {
   position: absolute;
