@@ -1,0 +1,28 @@
+{
+  "name": "@shmish/starboard",
+  "version": "0.0.1",
+  "description": "FRC Team 1085's robot dashboard.",
+  "main": "src/main/main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frc6879/StarBoard.git"
+  },
+  "keywords": [
+    "FRC",
+    "electron",
+    "dashboard"
+  ],
+  "author": "Shmish <shmish90@gmsil.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frc6879/StarBoard/issues"
+  },
+  "homepage": "https://github.com/frc6879/StarBoard#readme",
+  "dependencies": {
+    "@shmish/observable": "^0.2.1",
+    "electron": "^1.8.2"
+  }
+}
